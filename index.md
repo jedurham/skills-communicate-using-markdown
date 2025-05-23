@@ -24,3 +24,9 @@ while(effort == true && consistency == true) {
   }
 }
 ```
+
+- [ ] Complete all GitHub Skills Lessons
+- [ ] Complete Python for Everybody
+- [ ] Drink Coffee
+- [ ] Complete a Full Stack Development Course
+- [ ] Finish My Website
